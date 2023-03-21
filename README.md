@@ -2,9 +2,7 @@
  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 
