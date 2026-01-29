@@ -42,3 +42,7 @@
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jwooee)](https://github.com/anuraghazra/github-readme-stats)
+
+
