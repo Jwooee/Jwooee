@@ -5,7 +5,7 @@
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804727081226815804"
     width="600"
-    height="70"
+    height="60"
   />
 </a>
   
