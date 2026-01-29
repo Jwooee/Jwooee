@@ -15,7 +15,9 @@
 </a>
 -->  
 
-width: 633px; 
+
+<div style="
+    width: 633px; 
     border: 1px solid #ddd; 
     border-radius: 15px; 
     overflow: hidden; 
@@ -37,7 +39,15 @@ width: 633px;
         </p>
     </div>
 </div>
-h3 align="center">📚 Baekjoon solved 📚</h3>
+
+
+
+
+
+
+
+
+<h3 align="center">📚 Baekjoon solved 📚</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
 
