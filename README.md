@@ -16,19 +16,18 @@
 -->  
 
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" width="100%" />
-
-  <br/>
-
-  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="633" />
-
-  <br/>
-
-  ### 💻 CS Icons: Lena Forsén & Utah Teapot
-  
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" width="633" style="display: block; margin: 0;">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="633" style="display: block; margin: 0;">
+    </td>
+  </tr>
+</table>
 
 
 
