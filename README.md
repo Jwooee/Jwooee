@@ -8,12 +8,14 @@
     height="70"
   />
 </a>
-  
+
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
 -->  
+
+<img width="633" height="793" alt="스크린샷 2026-01-29 143201" src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
