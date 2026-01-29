@@ -21,16 +21,18 @@
   <tr>
     <td align="center" valign="center">
       <a href="https://solved.ac/jung526/">
-         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jwooee" />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" height="150">
       </a>
     </td>
     <td align="center" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
     <td align="center" valign="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
   </tr>
 </table>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
