@@ -17,13 +17,13 @@
 
 <h3 align="center">📚 Baekjoon solved 📚</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center"> </p>
 
 <p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
