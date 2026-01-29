@@ -4,11 +4,9 @@
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804588719522273289"
     width="600"
-    height="70"
+    height="60"
   />
 </a>
-  
-
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
