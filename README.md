@@ -19,9 +19,6 @@
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&theme=react&line_height=40&hide=css"/> </a>
-
-
 <table border="0">
   <tr>
     <td align="center" valign="center">
@@ -30,14 +27,13 @@
       </a>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
     <td align="center" valign="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
   </tr>
 </table>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -46,8 +42,4 @@
    <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
-
 
