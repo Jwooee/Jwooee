@@ -16,21 +16,16 @@
 -->  
 
 
-<div align="center">
-  <div style="
-    background-image: url('https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=300&fontSize=40&fontColor=ffffff'); 
-    background-size: contain; 
-    background-repeat: no-repeat; 
-    width: 633px; 
-    height: 300px; 
-    display: flex; 
-    align-items: center; 
-    justify-content: flex-start;
-    padding-left: 50px;
-  ">
-    <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="120" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
-  </div>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="200" />
+    </td>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=300&fontSize=40&fontColor=ffffff" width="450" />
+    </td>
+  </tr>
+</table>
 
 
 
