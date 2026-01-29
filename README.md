@@ -16,28 +16,18 @@
 -->  
 
 
-<div style="
-    width: 633px; 
-    border: 1px solid #ddd; 
-    border-radius: 15px; 
-    overflow: hidden; 
-    font-family: sans-serif;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    background-color: #fff;
-">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" 
-         alt="header" 
-         style="width: 100%; display: block;">
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" width="100%" />
 
-    <div style="padding: 20px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" 
-             alt="Lena Forsen" 
-             style="width: 100%; height: auto; border-radius: 10px;">
-        
-        <p style="margin-top: 15px; color: #333; font-weight: bold; font-size: 1.2em;">
-            Computer Science Icons
-        </p>
-    </div>
+  <br/>
+
+  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="633" />
+
+  <br/>
+
+  ### 💻 CS Icons: Lena Forsén & Utah Teapot
+  
 </div>
 
 
