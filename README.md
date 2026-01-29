@@ -15,22 +15,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Jwooee" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jwooee&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
-
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
 <table border="0">
   <tr>
     <td align="center" valign="center">
       <a href="https://solved.ac/jung526/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" height="150">
+         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jwooee" />
       </a>
     </td>
     <td align="center" valign="center">
