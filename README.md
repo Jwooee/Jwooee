@@ -4,7 +4,7 @@
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804588719522273289"
     width="600"
-    height="120"
+    height="70"
   />
 </a>
   
