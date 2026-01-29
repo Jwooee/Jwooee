@@ -2,7 +2,7 @@
   
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831&contribution-view=false"
+    src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
     width="600"
     height="60"
   />
