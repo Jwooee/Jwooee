@@ -17,7 +17,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee">
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
