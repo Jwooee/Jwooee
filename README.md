@@ -17,8 +17,7 @@
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jwooee&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <table border="0">
