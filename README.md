@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=150&fontSize=40&fontColor=ffffff" />
-  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="110" align="left" />
+  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="110" height="150" align="right" />
 
 </p>
 
