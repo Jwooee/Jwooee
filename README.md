@@ -10,7 +10,6 @@
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
-<h3 align="center">📚 Baekjoon solved 📚</h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
