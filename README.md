@@ -20,3 +20,6 @@
 
 </div>
 
+<div align="right">
+  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
+</div>
