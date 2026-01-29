@@ -17,9 +17,6 @@
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <table border="0">
   <tr>
     <td align="center" valign="center">
@@ -44,3 +41,8 @@
    <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+
+
