@@ -28,7 +28,7 @@
     </td>
     <td align="center" valign="center">
 
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&theme=react"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&theme=react"/>
 
 
     </td>
