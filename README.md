@@ -15,11 +15,29 @@
 </a>
 -->  
 
-<img width="633" height="793" alt="스크린샷 2026-01-29 143201" src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" />
+width: 633px; 
+    border: 1px solid #ddd; 
+    border-radius: 15px; 
+    overflow: hidden; 
+    font-family: sans-serif;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    background-color: #fff;
+">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" 
+         alt="header" 
+         style="width: 100%; display: block;">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
-
-<h3 align="center">📚 Baekjoon solved 📚</h3>
+    <div style="padding: 20px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" 
+             alt="Lena Forsen" 
+             style="width: 100%; height: auto; border-radius: 10px;">
+        
+        <p style="margin-top: 15px; color: #333; font-weight: bold; font-size: 1.2em;">
+            Computer Science Icons
+        </p>
+    </div>
+</div>
+h3 align="center">📚 Baekjoon solved 📚</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
 
