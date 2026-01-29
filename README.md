@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="500" height="150">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="500" height="170">
     </td>
     <td align="center" valign="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="500" height="150">
