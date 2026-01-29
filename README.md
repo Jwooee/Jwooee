@@ -17,6 +17,10 @@
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=radical)
+
+
+
 <table border="0">
   <tr>
     <td align="center" valign="center">
