@@ -1,5 +1,8 @@
 <div align="center">
- 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Jwooee}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526)](https://solved.ac/jung526/)  
@@ -14,11 +17,6 @@
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Jwooee}?pet-id=1" width="1000" height="120"/>
-</a>
 
 </div>
 
