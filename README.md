@@ -15,6 +15,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jwooee)&hide=stars,contribs&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+
+
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
 <table border="0">
@@ -25,7 +29,6 @@
       </a>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jwooee)&hide=stars,contribs&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
     <td align="center" valign="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
