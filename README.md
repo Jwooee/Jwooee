@@ -26,7 +26,6 @@
 <p align="center"> </p>
 
 <p>
-   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="110" height="150" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
@@ -35,5 +34,6 @@
 
 </div>
 <div align="right">
+   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="30" height="30" />
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
