@@ -17,7 +17,7 @@
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwooee)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwooee&hide=contribs,prs)
 
 
 <table border="0">
