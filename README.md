@@ -34,6 +34,6 @@
 
 </div>
 <div align="right">
-   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="30" height="30" />
+   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="25" height="25" />
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
