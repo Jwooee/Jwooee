@@ -15,10 +15,37 @@
 -->  
 
 <div align="center">
-  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+CREATIVE+DEVELOPER;Let's+make+something+awesome!" alt="타이핑 애니메이션" />
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+  <p style="
+    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+    padding: 60px 40px;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    max-width: 900px;
+  ">
+    <h1 style="
+      color: #ffffff;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-size: 3.8rem;
+      font-weight: 800;
+      letter-spacing: -1px;
+      margin: 0 0 16px 0;
+      text-shadow: 0 2px 10px rgba(0, 255, 180, 0.4);
+    ">
+      👋 HELLO WORLD
+    </h1>
+    
+    <h2 style="
+      color: #00ffcc;
+      font-size: 1.8rem;
+      font-weight: 500;
+      margin: 0;
+      letter-spacing: 1.5px;
+      opacity: 0.95;
+    ">
+      CREATIVE DEVELOPER
+    </h2>
+  </p>
 </div>
 
 <br>
