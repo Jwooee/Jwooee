@@ -14,7 +14,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=800&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
 
- <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+ <h3 align="center"> <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/></h3>
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
