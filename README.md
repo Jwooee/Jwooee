@@ -18,44 +18,85 @@
 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
-  </picture>
-</div>
 
-<br/>
+<h1>Backend & Trading System Developer</h1>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee&theme=dracula&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-</div>
-
-<br/>
-
-<h3 align="center">🛠️ 주로 다루는 기술들</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,postgres,redis,docker,kubernetes,aws,gcp&perline=7" />
-</div>
-
-<br/>
-
-<h3 align="center">🌱 지금 빠져있는 것들</h3>
-
-<p align="center">
-  • LLM Fine-tuning & Prompt Engineering<br/>
-  • Rust & Solana 개발<br/>
-  • 오픈소스 기여 늘리는 중...
+<p>
+Building reliable financial systems with data and technology
 </p>
 
-<br/>
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Jwooee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://github.com/Jwooee)
-
 </div>
+
+---
+
+## 👋 About Me
+- Interested in **financial IT systems** and **data-driven services**
+- Focused on **stability, performance, and accuracy** in backend development
+- Continuously learning **AI, databases, and scalable architecture**
+
+---
+
+## 💼 Core Experience
+
+### 📊 Water Demand Forecasting AI
+- Time-series preprocessing, anomaly handling, normalization
+- Compared **AutoReg vs LSTM**, selected optimal model via **MAE**
+- Learned importance of **training-data-first validation strategy**
+
+### 🏭 Semiconductor Defect Detection
+- Image-based anomaly detection using **FFT & distance metrics**
+- Built **real-time analysis interface**
+- Achieved **80%+ detection accuracy** and **10%+ cost reduction**
+
+---
+
+## 🛠 Technical Skills
+
+### Backend
+- Java, Spring Boot, MyBatis
+- REST API design
+- Performance optimization & logging
+
+### Database
+- Oracle SQL
+- Query tuning & schema design
+- Transaction handling
+
+### Data & AI
+- Python, Pandas, NumPy
+- Machine Learning / Deep Learning
+- Time Series Analysis
+
+---
+
+## 🎯 Career Goal
+> Develop **stable and efficient trading systems**  
+> that enhance reliability and operational accuracy  
+> in financial institutions such as **IBK Industrial Bank**.
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=default"/>
+</div>
+
+---
+
+## 📫 Contact
+- Email: your_email@example.com
+- GitHub: https://github.com/Jwooee
+
+
+
+
+
+
+
+
+
+
+
 
 
 
