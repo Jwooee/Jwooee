@@ -1,8 +1,8 @@
 <p align="center">
-  🌐 Auto Translate:
-  <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Jwooee/README.md">English</a> |
-  <a href="https://translate.google.com/translate?sl=auto&tl=ko&u=https://github.com/octocat/README.md">한국어</a> |
-  <a href="https://translate.google.com/translate?sl=auto&tl=ja&u=https://github.com/octocat/README.md">日本語</a>
+  🌐 ## 🌍 Language
+- [🇺🇸 English](README.md)
+- [🇰🇷 한국어](README.ko.md)
+- [🇯🇵 日本語](README.ja.md)
 </p>
 
 
