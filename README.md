@@ -14,9 +14,9 @@
 </a>
 -->  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=👋%20Hello%20World!&fontSize=90&fontAlignY=38&desc=CREATIVE%20DEVELOPER&descAlignY=55&descAlign=50" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee&theme=tokyonight&hide_border=true&background=0D1117" />
+  
+  <br/><br/>
 
 
 
