@@ -14,6 +14,10 @@
 </a>
 -->  
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
