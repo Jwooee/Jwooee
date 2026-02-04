@@ -15,14 +15,14 @@
 -->  
 
 <div align="center">
+ <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+</div>
+
+<div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
  
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
  </div>
-
-<div align="center">
- <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</div>
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
