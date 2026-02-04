@@ -14,9 +14,8 @@
 </a>
 -->  
 
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello%20World!&fontSize=60"/> 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello%20World!&fontSize=60"/> 
+
 
 
 
