@@ -14,7 +14,21 @@
 </a>
 -->  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff" alt="header" />
+<p align="center">
+  <svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#000000" d="M0,0 L600,0 L600,150 Q450,200 300,150 T0,150 Z" />
+    
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" 
+          style="fill: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 60px; font-weight: bold;">
+      HelloWorld!
+    </text>
+    
+    <text x="70%" y="65%" dominant-baseline="middle" text-anchor="middle" 
+          style="fill: rgba(255,255,255,0.8); font-family: 'Segoe UI', sans-serif; font-size: 20px; font-style: italic;">
+      developer
+    </text>
+  </svg>
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 
