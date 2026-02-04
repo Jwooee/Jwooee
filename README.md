@@ -15,45 +15,14 @@
 -->  
 
 <div align="center">
-
-  <!-- Banner -->
-  <div style="
-    background: linear-gradient(120deg, #000000 0%, #434343 100%);
-    padding: 70px 20px;
-    border-radius: 14px;
-    width: 100%;
-    max-width: 900px;
-  ">
-
-    <h1 style="
-      color: #ffffff;
-      font-size: 48px;
-      margin: 0;
-      letter-spacing: 1.5px;
-    ">
-      👋 Hello, World!
-    </h1>
-
-    <p style="
-      color: #cfcfcf;
-      font-size: 18px;
-      margin-top: 16px;
-      letter-spacing: 3px;
-      font-weight: 600;
-    ">
-      CREATIVE DEVELOPER
-    </p>
-
-    <p style="
-      color: #9e9e9e;
-      font-size: 14px;
-      margin-top: 10px;
-    ">
-      Building ideas into reality with code 🚀
-    </p>
-
-  </div>
-
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!;CREATIVE+DEVELOPER" alt="Typing SVG" />
+  
+  <p align="center">
+    <strong>끊임없이 배우고 기록하며, 기술로 가치를 만드는 개발자입니다.</strong>
+  </p>
+  
+  <br/>
 </div>
 
 
