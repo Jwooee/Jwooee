@@ -14,10 +14,7 @@
 </a>
 -->  
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee&theme=tokyonight&hide_border=true&background=0D1117" />
-  
-  <br/><br/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
 
 
 
