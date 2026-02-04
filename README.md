@@ -15,16 +15,23 @@
 -->  
 
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!;CREATIVE+DEVELOPER" alt="Typing SVG" />
-  
-  <p align="center">
-    <strong>끊임없이 배우고 기록하며, 기술로 가치를 만드는 개발자입니다.</strong>
-  </p>
-  
-  <br/>
-</div>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
 
+  <h3> 👨‍💻 Creative Developer </h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </p>
+
+  <br/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=radical" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&layout=compact&theme=radical" height="150" />
+  </p>
+</div>
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
