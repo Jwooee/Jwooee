@@ -14,84 +14,12 @@
 </a>
 -->  
 
-
-
-
+1.
 <div align="center">
-
-<h1>Backend & Trading System Developer</h1>
-
-<p>
-Building reliable financial systems with data and technology
-</p>
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
----
-
-## 👋 About Me
-- Interested in **financial IT systems** and **data-driven services**
-- Focused on **stability, performance, and accuracy** in backend development
-- Continuously learning **AI, databases, and scalable architecture**
-
----
-
-## 💼 Core Experience
-
-### 📊 Water Demand Forecasting AI
-- Time-series preprocessing, anomaly handling, normalization
-- Compared **AutoReg vs LSTM**, selected optimal model via **MAE**
-- Learned importance of **training-data-first validation strategy**
-
-### 🏭 Semiconductor Defect Detection
-- Image-based anomaly detection using **FFT & distance metrics**
-- Built **real-time analysis interface**
-- Achieved **80%+ detection accuracy** and **10%+ cost reduction**
-
----
-
-## 🛠 Technical Skills
-
-### Backend
-- Java, Spring Boot, MyBatis
-- REST API design
-- Performance optimization & logging
-
-### Database
-- Oracle SQL
-- Query tuning & schema design
-- Transaction handling
-
-### Data & AI
-- Python, Pandas, NumPy
-- Machine Learning / Deep Learning
-- Time Series Analysis
-
----
-
-## 🎯 Career Goal
-> Develop **stable and efficient trading systems**  
-> that enhance reliability and operational accuracy  
-> in financial institutions such as **IBK Industrial Bank**.
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=default"/>
-</div>
-
----
-
-## 📫 Contact
-- Email: your_email@example.com
-- GitHub: https://github.com/Jwooee
-
-
-
-
-
-
+2.
 
 
 
