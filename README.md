@@ -15,37 +15,64 @@
 -->  
 
 <div align="center">
-  <p align="center" style="
-      background: linear-gradient(135deg, #000000 0%, #434343 100%);
-      padding: 60px 0;
-      border-radius: 12px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-      font-family: 'Segoe UI', sans-serif;
-    ">
-    <h1 style="
-        background: linear-gradient(90deg, #ff8a00, #e52e71);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 52px;
-        margin: 0;
-        font-weight: bold;
-        letter-spacing: 2px;
-      ">
-      👋 Hello World!
-    </h1>
-    <span style="
-        display: inline-block;
-        margin-top: 10px;
-        font-size: 20px;
-        color: #f0f0f0;
-        letter-spacing: 4px;
-        text-transform: uppercase;
-      ">
-      ✨ Creative Developer ✨
-    </span>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=👋%20Hello%20World!&fontSize=90&fontAlignY=38&desc=CREATIVE%20DEVELOPER&descAlignY=55&descAlign=50" />
 </div>
 
+<div align="center">
+  
+  ### 💫 About Me
+```typescript
+  const developer = {
+    role: "Creative Developer",
+    passion: ["Clean Code", "UI/UX", "Innovation"],
+    currentlyLearning: "Always something new 🚀",
+    funFact: "Code is poetry in motion ✨"
+  };
+```
+  
+  <br/>
+  
+  ### 🛠️ Tech Stack
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  <br/>
+  
+  ### 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  
+  <br/>
+  
+  ### 🔥 Streak Stats
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  
+  <br/><br/>
+  
+  ### 📫 Connect With Me
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  
+  <br/>
+  
+  ---
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </p>
+  
+  **✨ "Code with passion, create with purpose"**
+  
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer" />
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 -->
