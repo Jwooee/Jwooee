@@ -1,5 +1,5 @@
 <div align="center">
-- [English](README.md), [한국어](README.ko.md)
+ [English](README.md) | [한국어](README.ko.md)
 </div>
 
 <div align="center">
