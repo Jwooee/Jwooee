@@ -1,13 +1,19 @@
- <div align="center">
-  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
+<p align="center">
+  <a href="#-english">🇺🇸 English</a> |
+  <a href="#-korean">🇰🇷 한국어</a> |
+  <a href="#-japanese">🇯🇵 日本語</a>
+</p>
+
+<div align="center">
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
     width="600"
     height="60"
   />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=600&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
- 
+
+ <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </a>
 
 <!--
@@ -21,10 +27,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
 </div>
 -->  
-
-<div align="center">
- <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</div>
 
 
 
