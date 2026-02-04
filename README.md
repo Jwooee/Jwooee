@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#-english">🇺🇸 English</a> |
-  <a href="#-korean">🇰🇷 한국어</a> |
-  <a href="#-japanese">🇯🇵 日本語</a>
-</p>
-
 <div align="center">
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
