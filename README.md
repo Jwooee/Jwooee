@@ -15,7 +15,9 @@
 -->  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer" />
+<img src="https://img.shields.io/badge/창의력-∞-000?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Idea-Always%20On-000?style=flat-square&logo=idea&logoColor=white" />
+
 
 
 
