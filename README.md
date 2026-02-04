@@ -15,15 +15,27 @@
 -->  
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse; border-spacing: 0; border: none;">
     <tr>
-      <td align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
-        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
-          👋 HelloWorld!
+      <td align="center" style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 25%, #2d3436 50%, #1a1a1a 75%, #000000 100%); padding: 80px 10px; border-radius: 15px; border: 1px solid #333;">
+        <div style="margin-bottom: 20px;">
+          <code style="color: #6c5ce7; background: #2d3436; padding: 5px 15px; border-radius: 50px; font-size: 14px; border: 1px solid #444;">
+            🚀 Available for amazing projects
+          </code>
+        </div>
+        <h1 style="color: #ffffff; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 60px; margin: 0; text-shadow: 2px 2px 10px rgba(0,0,0,0.5); letter-spacing: -1.5px;">
+          Hello World! <span style="display: inline-block;">✨</span>
         </h1>
-        <p style="color: #cccccc; font-family: sans-serif; font-size: 18px; letter-spacing: 4px; margin-top: 10px;">
-          CREATIVE DEVELOPER
+        <hr style="width: 100px; border: 0; height: 2px; background: linear-gradient(to right, transparent, #ffffff, transparent); margin: 25px 0;" />
+        <p style="color: #a0a0a0; font-family: 'Segoe UI', sans-serif; font-size: 20px; font-weight: 300; margin: 0; letter-spacing: 6px; text-transform: uppercase;">
+          Full-Stack Developer & Designer
         </p>
+        <div style="margin-top: 30px;">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        </div>
       </td>
     </tr>
   </table>
