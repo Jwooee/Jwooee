@@ -6,6 +6,8 @@
     width="600"
     height="60"
   />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=600&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
+ 
 </a>
 
 <!--
@@ -13,11 +15,6 @@
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
 -->  
-
-
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=600&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
-</div>
 
 <!--
 <div align="center">
