@@ -15,21 +15,34 @@
 -->  
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
-
-  <h3> 👨‍💻 Creative Developer </h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  </p>
-
-  <br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=radical" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&layout=compact&theme=radical" height="150" />
+  <p align="center" style="
+      background: linear-gradient(135deg, #000000 0%, #434343 100%);
+      padding: 60px 0;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+      font-family: 'Segoe UI', sans-serif;
+    ">
+    <h1 style="
+        background: linear-gradient(90deg, #ff8a00, #e52e71);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 52px;
+        margin: 0;
+        font-weight: bold;
+        letter-spacing: 2px;
+      ">
+      👋 Hello World!
+    </h1>
+    <span style="
+        display: inline-block;
+        margin-top: 10px;
+        font-size: 20px;
+        color: #f0f0f0;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      ">
+      ✨ Creative Developer ✨
+    </span>
   </p>
 </div>
 
