@@ -7,12 +7,15 @@
     height="60"
   />
 </a>
- 
+
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
 -->  
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer" />
 
 
 
