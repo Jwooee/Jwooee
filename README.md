@@ -12,24 +12,9 @@
     height="60"
   />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=800&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
+</a>
 
  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</a>
-
-<!--
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
-</a>
--->  
-
-<!--
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
-</div>
--->  
-
-
-
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
@@ -51,6 +36,28 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+<div align="right">
+   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
+  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
+</div>
+<!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
+
+
+
+<!--
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
+</a>
+-->  
+
+<!--
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
+</div>
+-->  
+
+
 <!--
 <div align="center">
 <a href="mailto:your_email@example.com">
@@ -62,16 +69,3 @@
 
 </div>
 --> 
-
-
-</div>
-<div align="right">
-   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
-  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
-</div>
-<!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
-
-
-
-
-
