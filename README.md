@@ -14,7 +14,14 @@
 </a>
 -->  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=F7F7F7&background=00171BBB&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+<div align="center">
+  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+CREATIVE+DEVELOPER;Let's+make+something+awesome!" alt="타이핑 애니메이션" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+</div>
+
+
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
