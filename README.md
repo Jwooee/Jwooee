@@ -1,15 +1,16 @@
 [English](README.md) | [한국어](README.ko.md)
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jwooee" />  
  
  <div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jwooee" />  
+
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
-    width="600"
+    width="300"
     height="60"
   />
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=800&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=600&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
 
 <div align="center">
