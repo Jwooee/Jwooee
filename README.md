@@ -1,7 +1,7 @@
 [English](README.md) | [한국어](README.ko.md)
  
  <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jwooee" />
 
 
   
