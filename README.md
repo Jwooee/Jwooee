@@ -1,8 +1,6 @@
 <div align="center">
  [English](README.md) | [한국어](README.ko.md)
-</div>
-
-<div align="center">
+ 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
