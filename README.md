@@ -21,8 +21,8 @@
 # 🚀 프로젝트 이름 (Project Name)
 > 프로젝트를 한 줄로 설명하는 멋진 문구를 입력하세요.
 
-![GitHub license](https://img.shields.io/github/license/Jwooee?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Jwooee?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Jwooee/PC?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Jwooee/PC?style=flat-square)
 ![Language](https://img.shields.io/badge/language-Python-blue?style=flat-square)
 
 ---
