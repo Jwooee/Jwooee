@@ -14,7 +14,75 @@
 </a>
 -->  
 
-<img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+
+
+
+
+
+<div align="center">
+  
+  ### 💫 About Me
+```typescript
+  const developer = {
+    role: "Creative Developer",
+    passion: ["Clean Code", "UI/UX", "Innovation"],
+    currentlyLearning: "Always something new 🚀",
+    funFact: "Code is poetry in motion ✨"
+  };
+```
+  
+  <br/>
+  
+  ### 🛠️ Tech Stack
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  <br/>
+  
+  ### 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  
+  <br/>
+  
+  ### 🔥 Streak Stats
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  
+  <br/><br/>
+  
+  ### 📫 Connect With Me
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  
+  <br/>
+  
+  ---
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
