@@ -14,32 +14,7 @@
 </a>
 -->  
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border-spacing: 0; border: none;">
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 25%, #2d3436 50%, #1a1a1a 75%, #000000 100%); padding: 80px 10px; border-radius: 15px; border: 1px solid #333;">
-        <div style="margin-bottom: 20px;">
-          <code style="color: #6c5ce7; background: #2d3436; padding: 5px 15px; border-radius: 50px; font-size: 14px; border: 1px solid #444;">
-            🚀 Available for amazing projects
-          </code>
-        </div>
-        <h1 style="color: #ffffff; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 60px; margin: 0; text-shadow: 2px 2px 10px rgba(0,0,0,0.5); letter-spacing: -1.5px;">
-          Hello World! <span style="display: inline-block;">✨</span>
-        </h1>
-        <hr style="width: 100px; border: 0; height: 2px; background: linear-gradient(to right, transparent, #ffffff, transparent); margin: 25px 0;" />
-        <p style="color: #a0a0a0; font-family: 'Segoe UI', sans-serif; font-size: 20px; font-weight: 300; margin: 0; letter-spacing: 6px; text-transform: uppercase;">
-          Full-Stack Developer & Designer
-        </p>
-        <div style="margin-top: 30px;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Creative%20Full-Stack%20Developer&descAlignY=60&descAlign=50)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 
