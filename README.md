@@ -15,32 +15,16 @@
 -->  
 
 <div align="center">
-  <h1 style="
-    font-size: 4.2rem;
-    font-weight: 900;
-    background: linear-gradient(90deg, #00f2ff, #a100f2, #ff006e);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin: 40px 0 12px;
-    letter-spacing: -2px;
-  ">
-    HELLO WORLD
+  <h1>
+    <span style="background: linear-gradient(90deg, #00d4ff, #09009f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Hello World
+    </span>
+    <span style="color:#8899a6; font-size:0.6em; vertical-align: super;">✦</span>
   </h1>
-  
-  <p style="
-    font-size: 1.6rem;
-    color: #8899a6;
-    margin: 0;
-    font-family: 'SF Pro Display', system-ui;
-  ">
+  <p style="color:#a0a0ff; font-size:1.3rem; margin-top:8px;">
     CREATIVE DEVELOPER
   </p>
-  
-  <br>
-  <img src="https://img.shields.io/badge/창의력-∞-000?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Idea-Always%20On-000?style=flat-square&logo=idea&logoColor=white" />
 </div>
-
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 -->
