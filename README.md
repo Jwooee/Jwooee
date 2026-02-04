@@ -13,47 +13,27 @@
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
 -->  
+
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/> 
+ 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
+ 
+ <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
 
-
-
-
-1.
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</div>
+# 아님
 
 2.
 <h3>🔥 Passionate Developer</h3>
 
-3.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!&fontSize=60"/> 
-
-4.
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
-
 5.
 GitHub: https://github.com/Jwooee
 
-6.
-<div align="center">
-  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=HELLO+WORLD!&repeat=false" alt="타이핑 애니메이션" />
-  <br><br>
-</div>
-
-7.
-  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</div>
 
 8.
  <img src="https://img.shields.io/badge/창의력-∞-000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Idea-Always%20On-000?style=flat-square&logo=idea&logoColor=white" />
-
-
-9.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=F7F7F7&background=00171BBB&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 
 10
