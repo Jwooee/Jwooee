@@ -7,7 +7,7 @@
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
-    width="300"
+    width="200"
     height="60"
   />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=600&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
