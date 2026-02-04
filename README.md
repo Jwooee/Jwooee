@@ -15,14 +15,13 @@
 -->  
 
 <div align="center" valign="center">
-      <p align="center" style="background: linear-gradient(120deg, #434343 50%, #434343 100%); padding: 60px 0; border-radius: 10px;">
+      <p align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
         <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
           👋 Hello World!
         </h1>
           CREATIVE DEVELOPER
         </p>
 </div>
-
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
