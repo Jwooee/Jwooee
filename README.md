@@ -1,13 +1,3 @@
-# 🌍 Project Name
-
-<p align="center">
-  🌐 Auto Translate:
-  <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/USERNAME/REPO">English</a> |
-  <a href="https://translate.google.com/translate?sl=auto&tl=ko&u=https://github.com/USERNAME/REPO">한국어</a> |
-  <a href="https://translate.google.com/translate?sl=auto&tl=ja&u=https://github.com/USERNAME/REPO">日本語</a>
-</p>
-
-## 🇰🇷 Korean (한국어)
 <div align="center">
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
@@ -19,11 +9,10 @@
 </a>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</div>
+  <img src="https://img.shields.io/badge/Creative -Developer-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
 
-<h3 align="center">📚 기술 스택 📚</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
 <table border="0">
   <tr>
@@ -41,10 +30,9 @@
   </tr>
 </table>
 
-<div align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 <div align="right">
    <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
   <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
