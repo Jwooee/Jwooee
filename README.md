@@ -18,68 +18,33 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
-</div>
-
-<br/>
-
-<h2 align="center">👋 안녕하세요! [이름/닉네임]입니다</h2>
+<h1 align="center">Hi there! 👋 I'm [이름]</h1>
 
 <p align="center">
-  <em>
-    "코드는 단순해야 아름답다" 라 믿는 
-    <b>[직업/관심분야]</b> 개발자입니다
-  </em>
+  <a href="https://github.com/여기_아이디?tab=repositories">
+    <img src="https://img.shields.io/github/stars/여기_아이디?style=social" alt="Stars"/>
+  </a>
 </p>
 
 <br/>
 
+## 💻 About Me
+
+- 🌱 현재 배우는 중 : Next.js 15 + TypeScript + tRPC
+- 🎯 목표 : 2026년까지 오픈소스에 의미 있는 기여 1번 하기
+- 📫 연락 : [이메일] | [블로그/velog]
+
+<br/>
+
+## 🏆 GitHub Stats
+
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jung526&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung526&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=onedark" width="60%"/>
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</div>
-
-<br/>
-
-## 🔥 Currently Working On
-
-- 📱 모바일 퍼스트 웹앱 개발
-- 🤖 LLM 기반 사이드 프로젝트
-- ✍️ 개발 블로그 운영 중
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://본인블로그주소)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@본인아이디)
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jung526&theme=radical&no-frame=true&margin-w=15" />
-</div>
+Thanks for visiting! ✌️
 
 
 
