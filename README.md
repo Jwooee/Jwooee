@@ -24,17 +24,6 @@
  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
 
-# 아님
-
-2.
-<h3>🔥 Passionate Developer</h3>
-
-5.
-GitHub: https://github.com/Jwooee
-
-
-
-
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
 <table border="0">
