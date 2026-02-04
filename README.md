@@ -13,8 +13,9 @@
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
 -->  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontColor=fffff&fontSize=60&fontAlignY=35"/> 
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=fffff&fontAlignY=35"/> 
+</div>
 
 
 
