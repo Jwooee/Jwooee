@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
+</div>
 
 <h3 align="center">📚 기술 스택 📚</h3>
 
@@ -39,7 +40,9 @@
     </td>
   </tr>
 </table>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="right">
