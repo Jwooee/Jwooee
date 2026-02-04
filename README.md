@@ -20,54 +20,115 @@
 
 
 
+
+
+
+
+<!-- Header -->
 <div align="center">
-  
-  ### 💫 About Me
-```typescript
-  const developer = {
-    role: "Creative Developer",
-    passion: ["Clean Code", "UI/UX", "Innovation"],
-    currentlyLearning: "Always something new 🚀",
-    funFact: "Code is poetry in motion ✨"
-  };
-```
-  
-  <br/>
-  
-  ### 🛠️ Tech Stack
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  <br/>
-  
-  ### 📊 GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
-  
-  <br/>
-  
-  ### 🔥 Streak Stats
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee&theme=tokyonight&hide_border=true&background=0D1117" />
-  
-  <br/><br/>
-  
-  ### 📫 Connect With Me
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  
-  <br/>
-  
-  ---
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+---
+
+<!-- Intro -->
+<h2 align="center">👋 Hi, I'm a Developer</h2>
+
+<p align="center">
+  Passionate about <b>Backend</b>, <b>AI</b>, and <b>System Engineering</b><br/>
+  Always learning, always building 🚀
+</p>
+
+---
+
+<!-- Badges -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-ML%2FDL-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Java / C / C++
+- Python
+- SQL
+
+### ⚙️ Backend
+- Spring Boot
+- MyBatis / JPA
+- REST API
+
+### 🤖 AI & Data
+- Machine Learning
+- Deep Learning
+- Time Series Analysis
+
+### 🗄 Database
+- Oracle
+- MySQL
+- PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=dark&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jung526&theme=github-compact"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:your_email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/jung526">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+
+</div>
+
+
+
+
+
+
+
 
 
 
