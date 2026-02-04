@@ -15,11 +15,7 @@
 -->  
 
 <div align="center">
-  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=HELLO+WORLD!&repeat=false" alt="타이핑 애니메이션" />
-  <br><br>
-</div>
-
-  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=👋%20Hello%20World!&fontSize=90&fontAlignY=38&desc=CREATIVE%20DEVELOPER&descAlignY=55&descAlign=50" />
 </div>
 
 
