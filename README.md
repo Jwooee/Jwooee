@@ -19,34 +19,25 @@
 
 
 
-
-
-
 <div align="center">
 
-<h1>👋 Hello, I'm Jungwoo</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!&fontSize=60"/>
 
-<p>
-Backend · System · AI<br/>
-Simple is the ultimate sophistication.
-</p>
+<h3>🔥 Passionate Developer</h3>
 
 </div>
 
 ---
 
-## ⚙️ Stack
-- Java / Spring Boot
-- Oracle / MyBatis
-- Python / ML
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee&theme=dark"/>
+</div>
 
 ---
 
-## 📈 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&theme=dark&show_icons=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jwooee&theme=darkhub"/>
 </div>
-
 
 
 
