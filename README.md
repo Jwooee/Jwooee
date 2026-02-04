@@ -14,71 +14,14 @@
 </a>
 -->  
 
-<div align="center">
-
-  <!-- HERO SECTION -->
-  <div style="
-    width: 100%;
-    padding: 80px 20px;
-    background: linear-gradient(135deg, #000000 0%, #2c2c2c 50%, #434343 100%);
-    border-radius: 16px;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-  ">
-    <h1 style="
-      margin: 0;
-      font-size: 52px;
-      font-weight: 800;
-      color: #ffffff;
-      letter-spacing: 2px;
-    ">
-      👋 Hello, World!
-    </h1>
-
-    <p style="
-      margin-top: 18px;
-      font-size: 20px;
-      color: #d1d1d1;
-      letter-spacing: 4px;
-    ">
-      CREATIVE DEVELOPER
-    </p>
-
-    <p style="
-      margin-top: 30px;
-      font-size: 16px;
-      color: #aaaaaa;
-      max-width: 600px;
-      line-height: 1.6;
-    ">
-      I build elegant solutions with clean code,<br/>
-      performance in mind, and a touch of creativity.
-    </p>
-  </div>
-
-  <!-- SPACING -->
-  <br/><br/>
-
-  <!-- TECH STACK -->
-  <div style="
-    display: inline-block;
-    padding: 30px 40px;
-    border-radius: 14px;
-    background: linear-gradient(120deg, #1f1f1f, #2a2a2a);
-  ">
-    <h3 style="color: #ffffff; margin-bottom: 20px;">
-      ⚙️ Tech Stack
-    </h3>
-
-    <p style="color: #cccccc; font-size: 15px;">
-      💻 C / C++ / Java / SQL <br/>
-      🌱 Spring Boot / MyBatis <br/>
-      🤖 AI · Data · Algorithms <br/>
-      🛠 Git · Linux · WSL
-    </p>
-  </div>
-
+<div align="center" valign="center">
+      <p align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
+        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
+          👋 Hello World!
+        </h1>
+          CREATIVE DEVELOPER
+        </p>
 </div>
-
 
 
 <!--
