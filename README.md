@@ -1,10 +1,8 @@
 [English](README.md) | [한국어](README.ko.md)
+
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jwooee" />  
  
  <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jwooee" />
-
-
-  
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=804568741226048831"
