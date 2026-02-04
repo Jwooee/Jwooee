@@ -18,103 +18,68 @@
 
 
 
-
-
-
-<!-- 메인 헤더 -->
-<div align="center" style="
-  margin: 40px 0;
-  padding: 50px 0;
-  border-radius: 18px;
-  background: linear-gradient(135deg, #111827 0%, #1f2937 40%, #0f766e 100%);
-  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.65);
-">
-
-  <h1 style="
-    margin: 0 0 10px 0;
-    font-size: 48px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background: linear-gradient(120deg, #e5e7eb 0%, #facc15 30%, #38bdf8 70%, #a855f7 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    👋 Hello World!
-  </h1>
-
-  <p style="
-    margin: 4px 0 22px 0;
-    font-size: 18px;
-    letter-spacing: 0.25em;
-    text-transform: uppercase;
-    color: #d1d5db;
-  ">
-    CREATIVE DEVELOPER
-  </p>
-
-  <p style="
-    margin: 0;
-    font-size: 14px;
-    color: #9ca3af;
-    max-width: 420px;
-  ">
-    Python · C++ · Random Number Generation · Financial Data Analysis · Automation
-  </p>
-</div>
-
----
-
-## 🔍 About Me
-
-- 🌐 Seoul 기반 **Software Engineer**
-- 🧮 Random Number Generation, 금융 데이터 분석, 자동화 관심 많음
-- 🧰 Python, C++, Linux, Web Scraping 을 자주 사용
-- 🎯 깔끔한 코드와 재사용 가능한 유틸리티를 좋아함
-
----
-
-## 🛠 Tech Stack
-
 <div align="center">
-
-<!-- 언어 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
 
 <br/>
 
-<!-- 환경 -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<h2 align="center">👋 안녕하세요! [이름/닉네임]입니다</h2>
 
-</div>
+<p align="center">
+  <em>
+    "코드는 단순해야 아름답다" 라 믿는 
+    <b>[직업/관심분야]</b> 개발자입니다
+  </em>
+</p>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<!-- 이름은 본인 계정으로 변경 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=tokyonight" height="150" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
----
+<br/>
 
-## 📫 Contact
+## 🛠️ Tech Stack
 
-- ✉️ Email: your.email@example.com  
-- 💼 LinkedIn: [링크](https://www.linkedin.com/)  
-- 📝 Blog: [블로그 주소](https://example.com)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</div>
 
+<br/>
 
+## 🔥 Currently Working On
 
+- 📱 모바일 퍼스트 웹앱 개발
+- 🤖 LLM 기반 사이드 프로젝트
+- ✍️ 개발 블로그 운영 중
 
+<br/>
 
+## 📫 Let's Connect
 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://본인블로그주소)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@Jwooee)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jwooee&theme=radical&no-frame=true&margin-w=15" />
+</div>
 
 
 
