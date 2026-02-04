@@ -14,6 +14,12 @@
 </a>
 -->  
 
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello%20World!&fontSize=60"/> 
+</div>
+
+
+
 1.
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
