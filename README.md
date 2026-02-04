@@ -1,3 +1,11 @@
+<p align="center">
+  🌐 Auto Translate:
+  <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Jwooee/README.md">English</a> |
+  <a href="https://translate.google.com/translate?sl=auto&tl=ko&u=https://github.com/octocat/README.md">한국어</a> |
+  <a href="https://translate.google.com/translate?sl=auto&tl=ja&u=https://github.com/octocat/README.md">日本語</a>
+</p>
+
+
 <div align="center">
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
