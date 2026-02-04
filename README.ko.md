@@ -1,7 +1,6 @@
 ## 🌍 Language
 
-- [🇺🇸 English](README.md)
-- [🇰🇷 한국어](README.ko.md)
+- [🇰🇷 한국어](README.ko.md), [🇺🇸 English](README.md)
 
 <div align="center">
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
