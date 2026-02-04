@@ -15,8 +15,7 @@
 -->  
 
 
-<img src="https://img.shields.io/badge/창의력-∞-000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Idea-Always%20On-000?style=flat-square&logo=idea&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=F7F7F7&background=00171BBB&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 
 
