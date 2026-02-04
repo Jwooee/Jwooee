@@ -14,7 +14,15 @@
 </a>
 -->  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Creative%20Full-Stack%20Developer&descAlignY=60&descAlign=50)
+<div align="center">
+      <td align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
+        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
+          👋 HelloWorld!
+        </h1>
+        <p style="color: #cccccc; font-family: sans-serif; font-size: 18px; letter-spacing: 4px; margin-top: 10px;">
+          CREATIVE DEVELOPER
+        </p>
+\</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 
