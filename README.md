@@ -14,40 +14,14 @@
 </a>
 -->  
 
-<div align="center" style="margin: 40px 0;">
-  <div style="
-      background: linear-gradient(135deg, #1f1f1f 0%, #3a3a3a 100%);
-      padding: 60px 0;
-      border-radius: 15px;
-      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
-      color: #ffffff;
-      font-family: 'Segoe UI', sans-serif;
-      width: 100%;
-      max-width: 800px;
-    ">
-    
-  <h1 style="
-      font-size: 50px;
-      margin: 0;
-      background: linear-gradient(90deg, #ffd700, #ff8800);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    ">
-    👋 Hello World!
-  </h1>
-
-  <p style="
-      font-size: 20px;
-      letter-spacing: 3px;
-      margin-top: 10px;
-      color: #dcdcdc;
-    ">
-    CREATIVE DEVELOPER
-  </p>
-  </div>
+<div align="center">
+  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+CREATIVE+DEVELOPER;Let's+make+something+awesome!" alt="타이핑 애니메이션" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
 
-
+<br>
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
