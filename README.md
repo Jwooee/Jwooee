@@ -14,19 +14,15 @@
 </a>
 -->  
 
-<div align="center">
-  <div style="background: linear-gradient(145deg, #0f0f0f 0%, #232526 40%, #414345 100%); padding: 80px 50px; border-radius: 15px; border: 1px solid #333; text-align: left;">
-    <h1 style="color: #ffffff; font-family: 'Segoe UI', Arial, sans-serif; font-size: 65px; margin: 0; font-weight: 850; letter-spacing: -2px;">
-      👋 HelloWorld!
-    </h1>
-    
-    <hr style="border: 0; height: 1px; background: linear-gradient(to right, #ffffff, transparent); margin: 20px 0;">
+<div align="center" valign="center">
+      <p align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
+        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
+          👋 HelloWorld!
+        </h1>
+          CREATIVE DEVELOPER
+        </p>
+</div> 
 
-    <p style="color: #888; font-family: 'Segoe UI', sans-serif; font-size: 22px; margin: 0; text-align: right; letter-spacing: 5px; font-weight: 300;">
-      CREATIVE DEVELOPER
-    </p>
-  </div>
-</div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
