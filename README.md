@@ -15,40 +15,32 @@
 -->  
 
 <div align="center">
-  <p style="
-    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
-    padding: 60px 40px;
-    border-radius: 16px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
-    margin: 0 auto;
-    max-width: 900px;
+  <h1 style="
+    font-size: 4.2rem;
+    font-weight: 900;
+    background: linear-gradient(90deg, #00f2ff, #a100f2, #ff006e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 40px 0 12px;
+    letter-spacing: -2px;
   ">
-    <h1 style="
-      color: #ffffff;
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      font-size: 3.8rem;
-      font-weight: 800;
-      letter-spacing: -1px;
-      margin: 0 0 16px 0;
-      text-shadow: 0 2px 10px rgba(0, 255, 180, 0.4);
-    ">
-      👋 HELLO WORLD
-    </h1>
-    
-    <h2 style="
-      color: #00ffcc;
-      font-size: 1.8rem;
-      font-weight: 500;
-      margin: 0;
-      letter-spacing: 1.5px;
-      opacity: 0.95;
-    ">
-      CREATIVE DEVELOPER
-    </h2>
+    HELLO WORLD
+  </h1>
+  
+  <p style="
+    font-size: 1.6rem;
+    color: #8899a6;
+    margin: 0;
+    font-family: 'SF Pro Display', system-ui;
+  ">
+    CREATIVE DEVELOPER
   </p>
+  
+  <br>
+  <img src="https://img.shields.io/badge/창의력-∞-000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Idea-Always%20On-000?style=flat-square&logo=idea&logoColor=white" />
 </div>
 
-<br>
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
 -->
