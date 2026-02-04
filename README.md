@@ -14,14 +14,48 @@
 </a>
 -->  
 
-<div align="center" valign="center">
-      <p align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
-        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
-          👋 Hello World!
-        </h1>
-          CREATIVE DEVELOPER
-        </p>
+<div align="center">
+
+  <!-- Banner -->
+  <div style="
+    background: linear-gradient(120deg, #000000 0%, #434343 100%);
+    padding: 70px 20px;
+    border-radius: 14px;
+    width: 100%;
+    max-width: 900px;
+  ">
+
+    <h1 style="
+      color: #ffffff;
+      font-size: 48px;
+      margin: 0;
+      letter-spacing: 1.5px;
+    ">
+      👋 Hello, World!
+    </h1>
+
+    <p style="
+      color: #cfcfcf;
+      font-size: 18px;
+      margin-top: 16px;
+      letter-spacing: 3px;
+      font-weight: 600;
+    ">
+      CREATIVE DEVELOPER
+    </p>
+
+    <p style="
+      color: #9e9e9e;
+      font-size: 14px;
+      margin-top: 10px;
+    ">
+      Building ideas into reality with code 🚀
+    </p>
+
+  </div>
+
 </div>
+
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
