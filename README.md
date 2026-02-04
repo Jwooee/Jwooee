@@ -14,7 +14,7 @@
 </a>
 -->  
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=fffff&fontAlignY=35"/> 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=#ffffff&fontAlignY=35"/> 
 </div>
 
 
