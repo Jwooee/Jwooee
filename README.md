@@ -14,20 +14,7 @@
 </a>
 -->  
 
-<div align="center">
-  <h1>
-    <span style="background: linear-gradient(90deg, #00d4ff, #09009f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      Hello World
-    </span>
-    <span style="color:#8899a6; font-size:0.6em; vertical-align: super;">✦</span>
-  </h1>
-  <p style="color:#a0a0ff; font-size:1.3rem; margin-top:8px;">
-    CREATIVE DEVELOPER
-  </p>
-</div>
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=F7F7F7&background=00171BBB&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 <h3 align="center">📚 Tech Stack (git 진행 중!) 📚</h3>
 
