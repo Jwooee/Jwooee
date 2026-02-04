@@ -1,4 +1,4 @@
-<h3 align="center"> [English](README.md) | [한국어](README.ko.md) </h3>
+[English](README.md) | [한국어](README.ko.md)
  
  <div align="center"> 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
