@@ -2,7 +2,7 @@
 
  
  <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jung_Woo" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=I'm+Jung+Woo" />  
 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line">
   <img
