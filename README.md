@@ -14,8 +14,9 @@
 </a>
 -->  
 
-
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</div>
 
 
 
@@ -25,11 +26,10 @@
 
 
 <!-- Header -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-</div>
+
+
 
 ---
 
@@ -83,8 +83,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dark&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jwooee
+&show_icons=true&theme=dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee
+&layout=compact&theme=dark&hide_border=true" height="180"/>
 
 </div>
 
@@ -94,7 +96,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jung526&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee
+&theme=github-compact"/>
 
 </div>
 
