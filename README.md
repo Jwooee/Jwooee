@@ -15,31 +15,18 @@
 -->  
 
 <div align="center">
-  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#434343;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
-        <animate attributeName="x1" dur="5s" values="0%;100%;0%" repeatCount="indefinite" />
-        <animate attributeName="x2" dur="5s" values="100%;200%;100%" repeatCount="indefinite" />
-      </linearGradient>
-    </defs>
-
-    <path fill="url(#grad)" d="M0,0 L800,0 L800,140 C600,200 200,100 0,160 Z">
-      <animate attributeName="d" dur="10s" values="M0,0 L800,0 L800,140 C600,200 200,100 0,160 Z; M0,0 L800,0 L800,160 C600,100 200,200 0,140 Z; M0,0 L800,0 L800,140 C600,200 200,100 0,160 Z" repeatCount="indefinite" />
-    </path>
-
-    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" 
-          style="fill: white; font-family: 'Segoe UI', Arial, sans-serif; font-size: 55px; font-weight: 800; letter-spacing: 2px;">
-      HELLO WORLD!
-    </text>
-
-    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" 
-          style="fill: rgba(255,255,255,0.7); font-family: 'Segoe UI', sans-serif; font-size: 20px; font-weight: 300; letter-spacing: 5px;">
-      CREATIVE DEVELOPER
-    </text>
-  </svg>
+  <table width="100%">
+    <tr>
+      <td align="center" style="background: linear-gradient(120deg, #000000 0%, #434343 100%); padding: 60px 0; border-radius: 10px;">
+        <h1 style="color: white; font-family: sans-serif; font-size: 48px; margin: 0;">
+          👋 HelloWorld!
+        </h1>
+        <p style="color: #cccccc; font-family: sans-serif; font-size: 18px; letter-spacing: 4px; margin-top: 10px;">
+          CREATIVE DEVELOPER
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&fontAlign=50&fontAlignY=30&text=HelloWorld!&desc=developer&descAlign=70&descAlignY=55&width=600&height=200&fontSize=60&fontColor=ffffff)
