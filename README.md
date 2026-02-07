@@ -24,10 +24,10 @@
       </a>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
     </td>
   </tr>
 </table>
