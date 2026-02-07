@@ -23,21 +23,13 @@
 <br>
 
 <div align="center">
-## 🤖 Arduino
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-### 🧩 OrCAD
 <img src="https://img.shields.io/badge/OrCAD-FF6C37?style=for-the-badge&logo=cadillac&logoColor=white"/>
-### 🐍 Python
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-### ⚙️ C++
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-### 🟣 C#
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-### 🗄 SQL
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-### ☕ Java
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-### 📱 Android Studio
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
 
