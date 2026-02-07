@@ -18,8 +18,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/OrCAD-E31937?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVQ4y2P8//8/AyWAiYFCwDhqACNIDZInE6MGjBpgSAb8//+fof8fA8N/YvH/P8SAsf///8fA8J+YfPz/DzFgNP6YIDf8H8YfA8N/YvH/f4gBY/8P448B6m8AtS9Yv89m690AAAAASUVORK5CYII=&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OrCAD-E31937?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAVFBMVEVHcEyjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0SjN0S9mXm0AAAAG3RSTlMA9AL0398fMBP69fbV7eXU0M+vnp6OalZIKyUfF67bAAABC0lEQVQoU6XSyXLDMAwE0IuSaDte4pS0Sdv//9pSInmSTh96m8HMgAsAsOfPNo6H9f0Yh8f9pDCOY0u6XhAAn9X6Ybe7z9D8N86X6zR8fS46v/Vp9r9Pj9tH87Y6T9Pr7PizR/3j9r6ezqP56OfWz/r98f583z89H98T8LCHpW05r6I9uW09X7bI8Gf3I9GfNf1N6N+K6WfW/0L9R+N/Nf/X9F9S9mP9Ym96L/lH0X/L2Xf670L/3dOfGf1ZpX7V6K8m/YfOf+f0v0r6vU79adLvdfoPnX6r0681/VIn38TfP6D6mX37fVp99vE79/E7+30mX979vH778/rtf/4AbEIPuXUvS0AAAAAASUVORK5CYII=&logoColor=white"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
