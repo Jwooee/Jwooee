@@ -16,11 +16,54 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<!-- ================= Tech Stack ================= -->
 
-<img src="https://skillicons.dev/icons?i=python" />
+<h2 align="center">⚡ Tech Stack</h2>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="160">
+### 🤖 Arduino
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### 🧩 OrCAD
+<img src="https://img.shields.io/badge/OrCAD-FF6C37?style=for-the-badge&logo=cadillac&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### 🐍 Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### ⚙️ C++
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="160">
+### 🟣 C#
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### 🗄 SQL
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### ☕ Java
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</td>
+<td align="center" width="160">
+### 📱 Android Studio
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</td>
+</tr>
+</table>
+</div>
 
 <table border="0">
   <tr>
