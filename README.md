@@ -6,7 +6,7 @@
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=800266458854150169"
     width="600"
-    height="60"
+    height="80"
   />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
