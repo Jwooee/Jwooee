@@ -1,7 +1,7 @@
 [English](README.md) | [한국어](README.ko.md)
 
  <div align="center"> 
- <a href="https://www.gitanimals.org/en_US?&utm_source=Jwooee"&utm_content=line&contribution-view=false>  
+ <a href="https://www.gitanimals.org/en_US?&utm_source=Jwooee&utm_content=line&contribution-view=false">  
   <img
     src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793"
     width="600"
