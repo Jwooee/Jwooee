@@ -18,7 +18,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/OrCAD-FF6C37?style=for-the-badge&logo=cadillac&logoColor=white"/>
+<img src="https://img.shields.io/badge/OrCAD-E31937?style=for-the-badge&logo=circuit-board&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
