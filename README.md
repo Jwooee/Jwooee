@@ -16,12 +16,6 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<!-- ================= Tech Stack ================= -->
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<br>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/OrCAD-FF6C37?style=for-the-badge&logo=cadillac&logoColor=white"/>
