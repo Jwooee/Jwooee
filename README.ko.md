@@ -9,9 +9,6 @@
  />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=안녕하세요!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
-<div align="center">
-  <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
-</div>
 
 <h3 align="center">📚 기술 스택 📚</h3>
 
@@ -48,7 +45,11 @@
 </div>
 </div>
 
-
+<!--
+<div align="center">
+  <img src="https://img.shields.io/badge/Creative-Developer-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
+</div>
+--> 
 
 <!--
 <a href="https://github.com/devxb/gitanimals">
