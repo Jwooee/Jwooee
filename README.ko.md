@@ -7,7 +7,7 @@
    width="600"
    height="70"
  />
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=안녕%20세계야!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
 <div align="center">
   <img src="https://img.shields.io/badge/창의적인-개발자-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
