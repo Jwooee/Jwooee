@@ -51,7 +51,7 @@
  <img
    src="https://render.gitanimals.org/farms/Jwooee"
    width="20"
-   height="20"
+   height="100"
  />
  </a>
 
