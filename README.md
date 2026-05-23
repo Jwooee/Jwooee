@@ -10,7 +10,7 @@
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
  <img
    src="https://render.gitanimals.org/farms/Jwooee"
-   width="800"
+   width="200"
    height="70"
  />
  </a>
