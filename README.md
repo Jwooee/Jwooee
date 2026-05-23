@@ -1,19 +1,21 @@
 **English** | [한국어](README.ko.md)
 
 <div align="center"> 
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line&contribution-view=false">
-  <img
-   src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793"
-   width="750"
-   height="70"
-  />
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
  <img
    src="https://render.gitanimals.org/farms/Jwooee"
-   width="100"
+   width="90"
    height="70"
  />
  </a>
+ 
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line&contribution-view=false">
+  <img
+   src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793"
+   width="760"
+   height="70"
+  />
+ 
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
