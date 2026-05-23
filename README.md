@@ -4,13 +4,13 @@
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=line&contribution-view=false">
   <img
    src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793"
-   width="900"
+   width="730"
    height="70"
   />
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
  <img
    src="https://render.gitanimals.org/farms/Jwooee"
-   width="100"
+   width="70"
    height="70"
  />
  </a>
