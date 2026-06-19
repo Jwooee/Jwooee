@@ -48,15 +48,13 @@
 
 
 <div align="right">
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm" contribution-view=false>
 <img
   src="https://render.gitanimals.org/farms/Jwooee"
-  width="780"
+  width="600"
   height="300"
 />
-</a>
- 
+</a> 
  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
