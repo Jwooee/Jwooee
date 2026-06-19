@@ -48,9 +48,9 @@
 
 
 <div align="right">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm&contribution-view=false">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/Jwooee"
+  src="https://render.gitanimals.org/farms/Jwooee&contribution-view=false"
   width="780"
   height="300"
 />
