@@ -47,6 +47,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
+
+
 <div align="right">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
 <img
@@ -54,7 +57,7 @@
   width="740"
   height="300"
 />
-</a> 
+</a>
  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
