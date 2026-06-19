@@ -50,7 +50,7 @@
 <div align="right">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/Jwooee&contribution-view=false"
+  src="https://render.gitanimals.org/farms/Jwooee"
   width="780"
   height="300"
 />
