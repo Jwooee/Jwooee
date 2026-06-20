@@ -50,7 +50,7 @@
    <img src="https://streak-stats.demolab.com?user=Jwooee" />
   </td>
   <td align="center" valign="center">
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8)
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" />
   </td>
 
  <td align="center" valign="center">
