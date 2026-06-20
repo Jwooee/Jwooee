@@ -41,9 +41,9 @@
 </td>
 </tr>
 
-<!-- </table> -->
+</table>
 
-<!-- <table width="100%" cellspacing="0" cellpadding="0"> -->
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&card_width=400" width="100%">
@@ -53,9 +53,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
 </td>
 </tr>
-<!-- </table> -->
+</table>
 
-<!-- <table width="100%" cellspacing="0" cellpadding="0"> -->
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
 <img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
