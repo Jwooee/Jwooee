@@ -37,7 +37,7 @@
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" width="100%">
 </td>
 </tr>
 </table>
@@ -45,11 +45,11 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=500&langs_count=8&hide=jupyter%20notebook" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=radical&hide_border=true&card_width=500&langs_count=8&hide=jupyter%20notebook" width="100%">
 </td>
 
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=tokyonight&utcOffset=9" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=radical&utcOffset=9" width="100%">
 </td>
 </tr>
 </table>
@@ -57,7 +57,7 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=Jwooee&theme=catppuccin-mocha&hide_border=true" width="100%">
+<img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
 </td>
 
 <td width="50%">
@@ -66,7 +66,8 @@
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=catppuccin-mocha&hide_border=true&area=true">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=react-dark&hide_border=true&area=true">
+
 
 
 
