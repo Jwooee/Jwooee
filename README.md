@@ -42,7 +42,7 @@
    </td>
    
    <td width="50%" bgcolor="white">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jwooee&theme=ayu-light&hide_border=true&border_radius=10&locale=ko" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jwooee&theme=ayu-light&hide_border=true&border_radius=10" width="100%"/>
    </td>
   
   <tr>
