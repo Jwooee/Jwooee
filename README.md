@@ -31,7 +31,7 @@
    </td>
    
    <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=transparent" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&theme=transparent&bg_color=00000000" width="100%"/>
    </td>
   </tr>
   
