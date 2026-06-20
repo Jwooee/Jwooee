@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=500" width="100%">
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
+<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
 </td>
 <td width="50%">
 <img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
