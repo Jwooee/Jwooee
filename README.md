@@ -33,7 +33,7 @@
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=500" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=200" width="100%">
 </td>
 
 <td width="50%">
