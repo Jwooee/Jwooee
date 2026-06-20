@@ -48,15 +48,13 @@
  <tr>
   <td align="center" valign="center">
    [![GitHub Streak](https://streak-stats.demolab.com/?user=Jwooee)](https://git.io/streak-stats)
- </td>
+  </td>
   <td align="center" valign="center">
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8)
   </td>
- </tr>
 
  <td align="center" valign="center">
-  <div align="right">
-   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
     <img
      src="https://render.gitanimals.org/farms/Jwooee"
      width="1000"
@@ -67,7 +65,7 @@
  </tr>
 </table>
 
-
+<div align="right">
  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
  <a href="https://hits.sh/github.com/Jwooee/"><img alt="Hits" src="https://hits.sh/github.com/Jwooee.svg"/></a>
 </div>
