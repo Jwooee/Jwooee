@@ -50,7 +50,7 @@
 </td>
  
 <td width="33.33%">
-<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
 </td>
 </tr>
 </table>
@@ -58,7 +58,7 @@
 <table width="100%">
 <tr>
 <td width="33.33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
+<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
 </td>
 
 <td width="33.33%">
