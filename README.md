@@ -52,8 +52,7 @@
 
 </td>
 <td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwooee&theme=default" width="100%"/>
+<img src="https://render.gitanimals.org/farms/{Jwooee}"  width="100%"/>
 
 </td>
 </tr>
