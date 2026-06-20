@@ -30,7 +30,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" >
 <tr>
 <td width="50%">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
@@ -43,7 +43,7 @@
 
 </table>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -57,7 +57,7 @@
 </tr>
 </table>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%">
  <img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
