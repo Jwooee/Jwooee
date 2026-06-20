@@ -30,17 +30,17 @@
 
 <table border="0">
   <tr>
-    <td align="center" valign="center">
+   <td width="33%" align="center">
       <a href="https://solved.ac/jung526/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="400" height="150"/>
       </a>
     </td>
-    <td align="center" valign="center">
+   <td width="33%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" height="150"/>
     </td>
-    <td align="center" valign="center">
+   <td width="33%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" height="150"/>
-    </td>
+   </td>
   </tr>
 </table>
 
