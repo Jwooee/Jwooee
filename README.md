@@ -50,7 +50,9 @@
    </td>
    
    <td width="50%">
-    <img src="https://render.gitanimals.org/farms/{Jwooee}"  width="100%"/>
+    <a href="https://github.com/devxb/gitanimals">
+     <img src="https://render.gitanimals.org/farms/Jwooee" width="100%"/>
+    </a>
    </td>
   </tr>
  </table>
