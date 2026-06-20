@@ -42,7 +42,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&icon_color=79ff97" width="100%">
 </td>
 </tr>
-</table>
+<!-- </table> -->
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -54,7 +54,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
 </td>
 </tr>
-</table>
+<!-- </table> -->
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
