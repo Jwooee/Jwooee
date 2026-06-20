@@ -47,7 +47,7 @@
 <table border="1">
  <tr>
   <td align="center" valign="center">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Jwooee)](https://git.io/streak-stats)
+   <img src="https://streak-stats.demolab.com?user=Jwooee" />
   </td>
   <td align="center" valign="center">
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8)
