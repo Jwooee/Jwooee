@@ -30,22 +30,26 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p width= "100%" align="center">
-  <img width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" width="100%"></td>
+</tr>
+</table>
 
-</p>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="100%"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=catppuccin_mocha&utcOffset=9" width="100%"></td>
+</tr>
+</table>
 
-<p width= "100%" align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact">
-<img width="50%" src="https://streak-stats.demolab.com?user=Jwooee">
- </p>
- 
-<p width= "100%" align="center">
-  
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8">
-  <img width="50%" src="https://render.gitanimals.org/farms/Jwooee">
-</p>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=catppuccin-mocha&hide_border=true" width="100%"></td>
+<td width="50%"><img src="https://render.gitanimals.org/farms/Jwooee" width="100%"></td>
+</tr>
+</table>
 
 
 
