@@ -44,6 +44,17 @@
   </tr>
 </table>
 
+<table border="1">
+ <tr>
+  <td align="center" valign="center">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Jwooee)](https://git.io/streak-stats)
+ </td>
+  <td align="center" valign="center">
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8)
+  </td>
+ </tr>
+</table>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwooee&theme=graywhite)
