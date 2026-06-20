@@ -47,11 +47,12 @@
   
   <tr>
    <td width="50%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=default" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=vue&utcOffset=8" width="100%"/>
    </td>
    
    <td width="50%">
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=vue&utcOffset=8" width="100%"/>
+    <a href="https://github.com/devxb/gitanimals">
+     <img src="https://render.gitanimals.org/farms/Jwooee" width="100%"/>
     </a>
    </td>
   </tr>
