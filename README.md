@@ -39,22 +39,19 @@
   <td>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true" width="100%">
   </td>
+</tr>
 
+<tr>
+ <td>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
+ </td>
+ 
+ <td>
+  <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
+ </td>
  </tr>
  
- <tr>
- <td>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
-  </td>
-  <td>
-    <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
-   </td>
-
-  
- </tr>
- <tr>
-
-   
+ <tr>  
    <td>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
    </td>
