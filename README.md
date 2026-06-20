@@ -32,14 +32,14 @@
   <tr>
     <td align="center" valign="center">
       <a href="https://solved.ac/jung526/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" height="150">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" height="150"/>
       </a>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150"/>
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150"/>
     </td>
   </tr>
 </table>
@@ -47,18 +47,16 @@
 <table border="1">
  <tr>
   <td align="center" valign="center">
-   <img src="https://streak-stats.demolab.com?user=Jwooee" />
+   <img src="https://streak-stats.demolab.com?user=Jwooee" height="150"/>
   </td>
   <td align="center" valign="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" height="150"/>
   </td>
 
  <td align="center" valign="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
     <img
      src="https://render.gitanimals.org/farms/Jwooee"
-     width="1000"
-     height="300"
      />
    </a>
   </td>
