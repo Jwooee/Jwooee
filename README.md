@@ -61,12 +61,11 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
 </td>
 
 <td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
+<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
 </td>
 </tr>
 </table>
