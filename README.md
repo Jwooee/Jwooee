@@ -46,6 +46,17 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwooee&theme=graywhite)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jwooee&theme=graywhite)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jwooee&theme=graywhite)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jwooee&theme=graywhite)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jwooee)](https://git.io/streak-stats)
 
 
