@@ -172,7 +172,8 @@
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=radiant&hide_border=true&rank_icon=github" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117,ff6ec4,7873f5
+&hide_border=true&rank_icon=github" width="100%">
 </td>
 </tr>
 </table>
@@ -203,6 +204,45 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=react-dark&hide_border=true&area=true">
 
+//////////////////////////////////////////////////////////////////
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
+</td>
+
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&icon_color=79ff97" width="100%">
+</td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff" width="100%">
+</td>
+
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
+</td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
+</td>
+
+<td width="50%">
+<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=react-dark&hide_border=true&area=true">
 
 
 
