@@ -30,37 +30,38 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table width="100%"  cellspacing="0" cellpadding="0">
- <tr>
-  <td>
-   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
-  </td>
-  
-  <td>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true" width="100%">
-  </td>
-</tr>
-
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
- <td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
- </td>
- 
- <td>
-  <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
- </td>
- </tr>
- 
- <tr>  
-   <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
-   </td>
-   
-   <td>
-    <img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
-   </td>
- </tr>
+<td width="33.33%">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
+</td>
+
+<td width="33.33%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true" width="100%">
+</td>
+
+<td width="33.33%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
+</td>
+</tr>
 </table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33.33%">
+<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
+</td>
+
+<td width="33.33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
+</td>
+
+<td width="33.33%">
+<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
+</td>
+</tr>
+</table>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
