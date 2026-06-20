@@ -40,13 +40,13 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="100%"></td>
-<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=catppuccin_mocha&utcOffset=9" width="100%"></td>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=catppuccin-mocha&hide_border=true" width="100%"></td>
 </tr>
 </table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=catppuccin-mocha&hide_border=true" width="100%"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=catppuccin_mocha&utcOffset=9" width="100%"></td>
 <td width="50%"><img src="https://render.gitanimals.org/farms/Jwooee" width="100%"></td>
 </tr>
 </table>
