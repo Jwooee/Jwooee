@@ -31,47 +31,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://solved.ac/jung526">
-    <img
-      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526"
-      height="150"
-      alt="Solved.ac Profile"
-    />
-  </a>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff"
-    height="150"
-    alt="Top Languages"
-  />
+  <img width="32%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526">
+  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true">
+  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact">
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Jwooee"
-    height="150"
-    alt="GitHub Streak"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=9"
-    height="150"
-    alt="Productive Time"
-  />
-
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/Jwooee"
-      height="150"
-      alt="GitAnimals"
-    />
-  </a>
+  <img width="32%" src="https://streak-stats.demolab.com?user=Jwooee">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8">
+  <img width="32%" src="https://render.gitanimals.org/farms/Jwooee">
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
