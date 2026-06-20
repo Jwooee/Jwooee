@@ -27,11 +27,19 @@
    <td width="50%">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%" height="100%">
    </td>
+   
+   <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true" width="100%"/>
+   </td>
+  </tr>
   
+  <tr>
+   <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%"/>
+   </td>
+   
    <td width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
    </td>
-  </tr>
   
   <tr>
    <td width="50%">
