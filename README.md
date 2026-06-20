@@ -30,39 +30,27 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+
+
+////////////////////////////////////////////////////////////
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
-</td>
-
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" width="100%">
-</td>
+<td width="50%"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" width="100%"></td>
 </tr>
 </table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=radical&hide_border=true&card_width=500&langs_count=8&hide=jupyter%20notebook" width="100%">
-</td>
-
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=radical&utcOffset=9" width="100%">
-</td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="100%"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=radical&utcOffset=9" width="100%"></td>
 </tr>
 </table>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
-</td>
-
-<td width="50%">
-<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
-</td>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%"></td>
+<td width="50%"><img src="https://render.gitanimals.org/farms/Jwooee" width="100%"></td>
 </tr>
 </table>
 
@@ -71,7 +59,79 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" width="100%"></td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="100%"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=catppuccin_mocha&utcOffset=9" width="100%"></td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=catppuccin-mocha&hide_border=true" width="100%"></td>
+<td width="50%"><img src="https://render.gitanimals.org/farms/Jwooee" width="100%"></td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=catppuccin-mocha&hide_border=true&area=true">
+
+
+
+
+
+///////////////////////////////////////////////////////////////
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&rank_icon=github" width="100%"></td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=aura&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="100%"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=aura&utcOffset=9" width="100%"></td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Jwooee&theme=aura&hide_border=true" width="100%"></td>
+<td width="50%"><img src="https://render.gitanimals.org/farms/Jwooee" width="100%"></td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=aura&hide_border=true&area=true">
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////
+
+
 
 <div align="right">
  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
