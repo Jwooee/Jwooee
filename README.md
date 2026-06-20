@@ -35,8 +35,9 @@
 <td width="50%">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
 </td>
+
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="100%">
 </td>
 </tr>
 </table>
@@ -44,10 +45,11 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=400" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&theme=tokyonight&hide_border=true&card_width=500" width="100%">
 </td>
+
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=tokyonight&utcOffset=9" width="100%">
 </td>
 </tr>
 </table>
@@ -55,13 +57,17 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
+<img src="https://streak-stats.demolab.com?user=Jwooee&theme=tokyonight&hide_border=true" width="100%">
 </td>
+
 <td width="50%">
 <img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=tokyo-night&hide_border=true&area=true"/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
