@@ -30,8 +30,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-
-
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
@@ -42,9 +40,10 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&icon_color=79ff97" width="100%">
 </td>
 </tr>
+
 <!-- </table> -->
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" cellspacing="0" cellpadding="0"> -->
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&bg_color=0d1117,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&card_width=400" width="100%">
@@ -56,7 +55,7 @@
 </tr>
 <!-- </table> -->
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" cellspacing="0" cellpadding="0"> -->
 <tr>
 <td width="50%">
 <img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
