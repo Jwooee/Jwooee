@@ -27,7 +27,6 @@
  <table border="0" cellspacing="0" cellpadding="0">
   <tr>
    <td width="50%">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%" height="100%">
    </td>
 
    <td width="50%">
@@ -63,15 +62,12 @@
  </div> 
 </body>
 
-
-
-
-
+<!--other-->
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
--->  
+-->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
 <!--
@@ -96,19 +92,3 @@
 </a>
 </div>
 -->
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
