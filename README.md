@@ -46,7 +46,7 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
 </td>
 
 <td width="50%">
@@ -58,7 +58,8 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
+<img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
+username=Jwooee&theme=2077&utcOffset=9" width="100%">
 
 
 </td>
