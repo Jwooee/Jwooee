@@ -46,11 +46,11 @@
 <table width="100%">
 <tr>
 <td width="33.33%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact">
 </td>
  
 <td width="33.33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8">
 </td>
 </tr>
 </table>
