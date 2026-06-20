@@ -27,7 +27,7 @@
  <table border="0" cellspacing="0" cellpadding="0">
   <tr>
    <td width="50%">
-    <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBxM26g" width="100%"/> 
+    <a href="https://www.git-ranker.com/ko/users/Jwooee"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBxM26g" alt="Git Ranker Badge" width="100%"/></a>
    </td>
    
    <td width="50%">
