@@ -30,7 +30,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
@@ -41,7 +41,7 @@
 </tr>
 </table>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=500" width="100%">
@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%">
