@@ -28,42 +28,51 @@
  
  </div>
 
-<table border="0">
-  <tr>
-   <td width="33%"  height="150" valign="center">
-      <a href="https://solved.ac/jung526/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%" height="100%"/>
-      </a>
-   </td>
-   <td width="33%"  height="150" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="100%"   height="100%"/>
-   </td>
-   <td width="33%"  height="150" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="100%"  height="100%"/>
-   </td>
-  </tr>
-</table>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table border="1">
- <tr>
-  <td width="33%" valign="center">
-   <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%" height="150"/>
-  </td>
- <td width="33%" valign="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8" width="100%" height="150"/>
-  </td>
+<p align="center">
+  <a href="https://solved.ac/jung526">
+    <img
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526"
+      height="150"
+      alt="Solved.ac Profile"
+    />
+  </a>
 
- <td width="33%" valign="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&langs_count=10&count_private=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff"
+    height="150"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Jwooee"
+    height="150"
+    alt="GitHub Streak"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=9"
+    height="150"
+    alt="Productive Time"
+  />
+
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jwooee&utm_content=farm">
     <img
-     src="https://render.gitanimals.org/farms/Jwooee"
-     width="100%"
-     height="150" 
-     />
-   </a>
-  </td>
- </tr>
-</table>
+      src="https://render.gitanimals.org/farms/Jwooee"
+      height="150"
+      alt="GitAnimals"
+    />
+  </a>
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jwooee)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
