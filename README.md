@@ -31,20 +31,20 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="32%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526">
-  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true">
+  <img width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true">
 
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact">
-<img width="32%" src="https://streak-stats.demolab.com?user=Jwooee">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact">
+<img width="50%" src="https://streak-stats.demolab.com?user=Jwooee">
  </p>
  
 <p align="center">
   
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8">
-  <img width="32%" src="https://render.gitanimals.org/farms/Jwooee">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=8">
+  <img width="50%" src="https://render.gitanimals.org/farms/Jwooee">
 </p>
 
 
