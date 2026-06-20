@@ -18,38 +18,43 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
-</td>
 
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"/>
+
+</td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jwooee&show_icons=true&include_all_commits=true&count_private=true" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true" width="100%"/>
+
 </td>
 </tr>
-</table>
 
-<table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&card_width=200" width="100%">
-</td>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%"/>
+
+</td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=graywhite&utcOffset=9" width="100%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
+
 </td>
 </tr>
-</table>
 
-<table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=github-light&hide_border=true" width="100%">
-</td>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=default" width="100%"/>
+
+</td>
 <td width="50%">
-<img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwooee&theme=default" width="100%"/>
+
 </td>
 </tr>
 </table>
