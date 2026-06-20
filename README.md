@@ -30,7 +30,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table width="100%">
+<table width="100%"  cellspacing="0" cellpadding="0">
  <tr>
   <td width="33.33%">
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%">
