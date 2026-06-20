@@ -8,7 +8,6 @@
    height="70"
   />
  
- 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
 </a>
 
