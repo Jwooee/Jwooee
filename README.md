@@ -44,6 +44,11 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%">
 </td>
 </tr>
+
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+
 <tr>
 <td width="33.33%">
 <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%">
