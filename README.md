@@ -23,7 +23,18 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td width="50%">
+   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%" height="100%">
+  </td>
 
+  
+ </tr>
+
+
+
+</table>
 
 
 
@@ -33,8 +44,6 @@
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
 
  
-</table>
 
