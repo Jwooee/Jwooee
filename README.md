@@ -63,26 +63,27 @@
 </body>
 
 <!--other-->
--
+
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
 </a>
+-->
 
-
-<img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
+<!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
+<!--
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+[Jwooee];Full-Stack+Developer;AI+%2F+Web3+Enthusiast" />
 </div>
- 
+--> 
 
- 
+<!-- 
 <div align="center">
   <img src="https://img.shields.io/badge/Creative-Developer-181717?style=for-the-badge&logoColor=white&logo=codeforces&colorA=000000&colorB=00C4B4" alt="creative developer badge"/>
 </div>
+-->
 
-
-
+<!--
 <div align="center">
 <a href="mailto:your_email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
