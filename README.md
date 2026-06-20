@@ -68,8 +68,7 @@
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=2077&utcOffset=9" width="100%">
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=react-dark&hide_border=true&area=true">
 
 <div align="right">
  <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
