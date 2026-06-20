@@ -19,43 +19,34 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <table>
-<tr>
-<td width="50%">
-
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true" width="100%"/>
-
-</td>
+ <tr>
+  <td width="50%">
+   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" width="100%"/>
+  </td>
+  
+  <td width="50%">
+   <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true" width="100%"/>
+  </td>
+ </tr>
+ 
+ <tr>
+  <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%"/>
+  </td>
+  
+  <td width="50%">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
+  </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact" width="100%"/>
-
+ <td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=default" width="100%"/>
 </td>
-<td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwooee&theme=default" width="100%"/>
-
-</td>
-<td width="50%">
-<img src="https://render.gitanimals.org/farms/{Jwooee}"  width="100%"/>
-
-</td>
-</tr>
+  <td width="50%">
+   <img src="https://render.gitanimals.org/farms/{Jwooee}"  width="100%"/>
+  </td>
+ </tr>
 </table>
 
 
