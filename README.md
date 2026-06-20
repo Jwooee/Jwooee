@@ -27,8 +27,9 @@
  <table border="0" cellspacing="0" cellpadding="0">
   <tr>
    <td width="50%">
+    <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBxM26g" width="100%"/> 
    </td>
-
+   
    <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=Jwooee&show_icons=true" width="100%"/>
    </td>
