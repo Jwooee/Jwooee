@@ -50,8 +50,8 @@
 </td>
 
 <td width="50%">
-</td>
 <img src="https://streak-stats.demolab.com?user=Jwooee&theme=radical&hide_border=true" width="100%">
+</td>
 </tr>
 </table>
 
