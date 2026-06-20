@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white"/>
  </div>
 
+<hr>
+
  <h2 align="center">📊 GitHub Stats 📊</h2>
  
  <table border="0" cellspacing="0" cellpadding="0">
