@@ -9,7 +9,7 @@
   </a>
  </div>
  
- <h3 align="center">📚 Tech Stack 📚</h3>
+ <h2 align="center">📚 Tech Stack 📚</h2>
  
  <div align="center">
   <img src="https://img.shields.io/badge/OrCAD-E31937?style=for-the-badge&logoColor=white"/>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white"/>
  </div>
 
- <h3 align="center">📊 GitHub Stats 📊</h3>
+ <h2 align="center">📊 GitHub Stats 📊</h2>
  
  <table border="0" cellspacing="0" cellpadding="0">
   <tr>
