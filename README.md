@@ -31,7 +31,7 @@
    </td>
    
    <td width="50%">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Jwooee?cardType=level&fontFamily=42dot%20Sans&preferLogin=false&count_private=true&show_icons=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Jwooee?cardType=level&fontFamily=42dot%20Sans&preferLogin=true&count_private=true&show_icons=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"
    </td>
   </tr>
   
