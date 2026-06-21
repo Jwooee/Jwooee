@@ -66,10 +66,6 @@
  </div> 
 </body>
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github&preferLogin=false">    
-<img alt="Jwooee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jwooee?cardType=level&theme=github&preferLogin=false" /> 
-</a>
-
 <!--other-->
 
 <!--
