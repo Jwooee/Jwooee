@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 **English** | [한국어](README.ko.md)
 
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jwooee&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
 <body>
  <div align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jwooee&utm_content=line">
