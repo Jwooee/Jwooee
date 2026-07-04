@@ -99,3 +99,5 @@
 </a>
 </div>
 -->
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">
