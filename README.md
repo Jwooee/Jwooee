@@ -101,8 +101,4 @@
 -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"/> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jwooee)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jwooee)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jwooee" alt="GitHub Streak" /></a>
-
 
