@@ -3,7 +3,7 @@
 
 <body>
  <div align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jwooee&utm_content=line"">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jwooee&utm_content=line">
    <img src="https://render.gitanimals.org/lines/Jwooee?pet-id=786410260593204793&contribution-view=false" width="600" height="70"/>
   </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=400&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=35"/>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white"/>
  </div>
 
-<br>
+ <br>
 
  <h2 align="center">📊 GitHub Stats 📊</h2>
  
@@ -37,7 +37,7 @@
   
   <tr>
    <td width="50%">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&count_private=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2"  width="100%"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&count_private=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"/>
    </td>
    
    <td width="50%" bgcolor="white">
@@ -51,13 +51,13 @@
    
    <td width="50%">
     <a href="https://github.com/devxb/gitanimals">
-     <img src="https://render.gitanimals.org/farms/Jwooee" width="100%"/>
+     <img src="https://render.gitanimals.org/farms/Jwooee" width="100%">
     </a>
    </td>
   </tr>
  </table>
  
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=aura&hide_border=true&area=true">
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jwooee&theme=aura&hide_border=true&area=true"/>
  
  <div align="right">
   <img src="https://github.com/user-attachments/assets/c79a0691-6788-4ace-bbb7-a82734fc3418" width="20" height="20" />
@@ -68,12 +68,6 @@
 <!--other-->
 <!--
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jung526" height="150">
--->
-
-<!--
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Jwooee}"/>
-</a>
 -->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Jwooee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />-->  
@@ -100,5 +94,3 @@
 </div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwooee&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"/> -->
-
-
