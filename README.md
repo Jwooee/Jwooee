@@ -41,7 +41,7 @@
    </td>
 
    <td width="50%" bgcolor="white">    
-    <img src="https://streak-stats.demolab.com?user=Jwooee" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
     </td>
   
   <tr>
@@ -99,7 +99,3 @@
 <!-- <td width="50%">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jwooee&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&count_private=true&title_color=2F80ED&text_color=434D58&icon_color=4C71F2" width="100%"/>
 </td> -->
-
-
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/> -->
-
