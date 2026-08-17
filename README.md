@@ -37,8 +37,6 @@
   
   <tr>
    <td width="50%">
-    + 
-
     <img src="https://github-stats-extended.vercel.app/api?username=Jwooee&theme=radical" width="100%"/>
    </td>
    
