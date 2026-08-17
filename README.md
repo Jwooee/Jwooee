@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 **English** | [한국어](README.ko.md)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jwooee&hide_border=&short_numbers=" alt="GitHub Streak" /></a>
+
 <body>
  <div align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jwooee&utm_content=line">
