@@ -41,7 +41,8 @@
    </td>
 
    <td width="50%" bgcolor="white">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jwooee" width="100%"/>
+    <!-- https://github-readme-streak-stats.herokuapp.com/?user=Jwooee -->
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Jwooee](https://github-readme-streak-stats.herokuapp.com/?user=Jwooee)" width="100%"/>
    </td>
   
   <tr>
