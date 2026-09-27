@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white"/>
+  <p></>(docker 연습 중)</p>
  </div>
-(docker 연습 중)
  <br>
 
  <h2 align="center">📊 GitHub Stats 📊</h2>
